@@ -1,0 +1,12 @@
+h2 {
+    
+    @extend %texto;
+    text-align:center;
+    
+} 
+
+h3 {
+    @extend %texto;
+    text-align:left;
+    
+}
