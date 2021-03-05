@@ -7,15 +7,15 @@ h3 {
 }
 
 #header {
-  background-color: #888888;
-  height: 380px;
+  background-color: #093263;
+  height: 80px;
   margin: 0px;
   padding: 0px;
 }
 
 #nav {
   height: 42px;
-  background-color: #888888;
+  background-color: #093263;
 }
 
 #nav ul {
@@ -35,22 +35,24 @@ h3 {
 }
 
 #nav a {
-  color: #00004B;
+  color: #C0C0C0;
   text-decoration: none;
 }
 
 .table {
   border: "9px" cellpadding="6px" cellspacing= "3px";
+  color: #C0C0C0;
 }
 
 body {
-  background-color: #C0C0C0;
+  background-color: #093263;
   margin: 0px;
   padding: 0px;
 }
 
 #main {
   overflow: auto;
+  background-color: #093263;
 }
 
 #content {
@@ -62,33 +64,40 @@ body {
 }
 
 .container aside {
-  color: white;
-  background-color: orangered;
+  color: #C0C0C0;
+  background-color: #093263;
 }
 
 .container .color {
-  color: orange;
+  color: #C0C0C0;
   background-color: black;
 }
 
 .container .color1 {
-  color: orange;
+  color: #C0C0C0;
   background-color: black;
 }
 
 .container .color2 {
-  color: black;
-  background-color: orange;
+  color: #C0C0C0;
+  background-color: #093263;
 }
 
 .container .color3 {
-  color: black;
-  background-color: orange;
+  color: #C0C0C0;
+  background-color: #093263;
 }
 
 h2, h3 {
   font-family: calibri;
   font-size: 25px;
-  color: black;
+  color: #C0C0C0;
 }
+
+#color1 {
+  color:#C0C0C0}
+
+  #background2 {
+     background-color: #1d2b42;}
+
 /*# sourceMappingURL=styles.css.map */

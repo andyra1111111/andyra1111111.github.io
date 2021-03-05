@@ -4,15 +4,15 @@
 }
 
 #header {
-    background-color: #888888;
-    height:380px;
+    background-color: #093263;
+    height:80px;
     margin:0px;
     padding:0px;
 
     }
 
 body {
-    background-color: #C0C0C0;
+    background-color: #093263;
     margin:0px;
     padding:0px;
 }
@@ -28,7 +28,7 @@ main{
 
 nav {
     height: 42px;
-    background-color: #888888;
+    background-color: #093263;
     }
 
     nav ul {
@@ -46,10 +46,29 @@ nav {
         font-size: 23px;
     }
     nav ul li a {
-        color: #00004B;
+        color: #C0C0C0;
         text-decoration: none;
     }
 
-    #table {
-        border="9px" cellpadding="6px" cellspacing="3px"
-      }
+    #color1 {
+        color:#C0C0C0;
+        align-content: center;
+        justify-content: center;
+       
+    }
+
+    #color2 {
+        color:#C0C0C0;
+        align-content: center;
+        justify-content: center;
+        text-align: center;
+    }
+
+
+    #background2 {
+        background-color: #1d2b42; 
+        align-content: center;
+        justify-content: center;
+       }
+
+  
